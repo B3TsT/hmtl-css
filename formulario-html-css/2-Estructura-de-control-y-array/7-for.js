@@ -5,6 +5,8 @@ for (let i = 0; i <= 10; i++) {
 }
 
 let text = 'JavaScript';
+let text = 'JavaScript';
+let text = 'JavaScript';
 // console.log(text[0])
 let estudiantes = ['Ales0', 'Ales1', 'Ales2', 'Ales3']
 
